@@ -1,0 +1,21 @@
+.first{
+    background-color: tomato;
+    height: 200px;
+    color: rgb(253, 253, 253)
+    
+}
+.header{
+    background-color: tomato;
+    background-image: url('food.jpg');
+    height: 350px;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.color{
+    color: tomato;
+    font-size: larger;
+    font-style: italic;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px antiquewhite;
+}
